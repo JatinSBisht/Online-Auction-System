@@ -2,7 +2,7 @@
 Project Overview
 This project involves building a full-fledged online auction platform where users can bid on items, see real-time updates, and participate in live auctions.
 The system would allow users to create accounts, browse items up for auction, place bids, and manage their bids.
-# Key Features of the Online Auction System
+# Key Features of the Online Auction System \n
 User Registration & Authentication:
 Users must be able to register, log in, and maintain an account.
 Item Listings:
